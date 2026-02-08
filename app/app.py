@@ -236,4 +236,4 @@ with st.container():
 # Footer info
 st.markdown("<div class='spacer'></div>", unsafe_allow_html=True)
 st.markdown("<div class='spacer'></div>", unsafe_allow_html=True)
-st.caption("Built with ❤️ using Streamlit")
+st.caption("Built with ❤️ using Streamlit!")
